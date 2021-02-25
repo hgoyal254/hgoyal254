@@ -6,8 +6,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgoyal254&show_icons=true&locale=en" alt="hgoyal254" /></p>
 
-- 🔭 I’m currently working on **My own Portfolio Website**
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Indian History, Books, Hindi Songs, Movies and Harry Potter.**
