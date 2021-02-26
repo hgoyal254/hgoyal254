@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshi Goyal</h1>
+<h1 align="center">Namaste 🙏, I'm Himanshi Goyal</h1>
 <h3 align="center">Junior Undergraduate, Department of Information Technology, Netaji Subhas Institute of Technology</h3>
 
 
@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshi-goyal-2b911219b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshi-goyal-2b911219b" height="30" width="40" /></a>
-<a href="https://kaggle.com/himanshigoyal254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="himanshigoyal254" height="30" width="40" /></a>
 <a href="https://medium.com/@cghimanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cghimanshi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/himanshigoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshigoyal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cghimanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cghimanshi" height="30" width="40" /></a>
